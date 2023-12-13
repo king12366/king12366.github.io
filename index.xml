@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shawn&#39;s Blog</title>
+    <link>https://king12366.github.io/</link>
+    <description>Recent content on Shawn&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 01 Oct 2023 22:32:47 +0800</lastBuildDate>
+    <atom:link href="https://king12366.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>塔塔加-特富野古道</title>
+      <link>https://king12366.github.io/2023/10/01/istio-install_and_example/</link>
+      <pubDate>Sun, 01 Oct 2023 22:32:47 +0800</pubDate>
+      <guid>https://king12366.github.io/2023/10/01/istio-install_and_example/</guid>
+      <description>踏入特富野古道，彷彿瞬間穿越了時空之門，從城市的塵囂中進入一個隱匿的秘境。先前那阵阵水泥建築和阿里山公路上車流的嘈雜，此時早已讓神秘的綠蔭所</description>
+    </item>
+    <item>
+      <title>彩虹之夜與雲之南</title>
+      <link>https://king12366.github.io/2022/12/18/istio-install_and_example/</link>
+      <pubDate>Sun, 18 Dec 2022 22:32:47 +0800</pubDate>
+      <guid>https://king12366.github.io/2022/12/18/istio-install_and_example/</guid>
+      <description>太平雲梯如連接天際的彩虹，橫跨太平山與龜山，宛如大自然的露天藝術品。這座千公尺高的單跨吊橋，全長281尺，不僅是通往嘉義風光的優雅通道，更是</description>
+    </item>
+    <item>
+      <title>Clean White Theme for Hugo</title>
+      <link>https://king12366.github.io/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://king12366.github.io/post/readme/</guid>
+      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
+    </item>
+    <item>
+      <title>Welcome to Zhaohuabing Blog</title>
+      <link>https://king12366.github.io/2017/11/03/hello-world/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://king12366.github.io/2017/11/03/hello-world/</guid>
+      <description>“Yeah It&amp;rsquo;s on. ” Hello World!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://king12366.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://king12366.github.io/about/</guid>
+      <description>About Me Shaoencai Tsai is an individual with a keen interest in exploring new frontiers. Learning new skills and delving into fresh knowledge not only brings a sense of accomplishment but also sparks a passion for sharing and engaging in meaningful conversations with others. When faced with challenges or the need to make decisions, I tend to analyze situations in a rational and systematic manner, enabling me to make wise decisions swiftly.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://king12366.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://king12366.github.io/notes/</guid>
+      <description>SQL 語言學習筆記 Python 語言學習筆記</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://king12366.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://king12366.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts Archive</title>
+      <link>https://king12366.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://king12366.github.io/archive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
